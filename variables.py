@@ -1,4 +1,4 @@
-saludo = "Hola GENTE!"
-print(saludo)
+saludo = " SOPORTE&IT!"
+print("Saludo al equipo" + saludo)
 
 
